@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Realdabaseassigment</string>
+
+    <string name="login_preference">com.example.realdabaseassigment_login_preference</string>
+    <string name="login_status_preference">com.example.realdabaseassigment_login_status_preference</string>
+</resources>
